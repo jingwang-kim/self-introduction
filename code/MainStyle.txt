@@ -1,0 +1,33 @@
+body {background-color: #A9BCF5}
+h2 {
+	font-family:"함초롬돋움" "맑은고딕"; 
+	color: blue;text-shadow:3px 3px 4px grey}
+
+#intro {
+	font-style:"맑은 고딕"; 
+	color:#FFFFFF;
+	text-shadow:3px 3px 4px grey
+	}
+
+#fin {
+	font-style:"함초롬바탕"; 
+	color:#FFFFFF;
+	}
+
+#duo {
+	font-size:15pt;
+	font-weight:bolder;
+	color: #61210B
+	}
+
+.emphasis1 {
+	font-weight:bold; 
+	text-decoration: underline;
+	font-style: "함초롬바탕"
+	}
+
+.emphasis2 {
+	font-seight: bloder; 
+	font-family: "함초롬바탕", "맑은고딕";
+	font-size: 13pt;
+	}

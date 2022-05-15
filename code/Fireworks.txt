@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> 불꽃놀이</title>
+<meta charset="UTF-8">
+<meta name="title" content="이 문서의 제목은 불꽃놀이 입니다.">
+<meta name="keyword" content="불꽃놀이">
+<meta name="author" content="김진광">
+<meta name="discription" content="이 문서는 자기소개를 위한 문서입니다.">
+</head>
+<body>
+<video src="video/Fireworks.mp4" width="400" height="300" controls autoplay>
+비디오를 재생할 수 없습니다.
+</video>
+</body>
+</html>

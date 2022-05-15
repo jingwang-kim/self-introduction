@@ -1,0 +1,4 @@
+ol li {list-style-type: upper-roman; margin: 10px; font-size: 14pt; }
+ul li {list-style-type: square; font-family: "맑은 고딕", Geogia; margin-bottom: 5px; font-size: 12pt; font-weight: bold;}
+strong {font-family: sans-serief, "맑은 고딕";color: #04B4AE; font-size: 16pt}
+h2 {font-family: "함초롬바탕"; color: #08088A;font-size: 20pt}
